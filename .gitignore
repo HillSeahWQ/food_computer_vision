@@ -178,5 +178,5 @@ pyrightconfig.json
 # personal
 /data
 /venv/
-/*/models
-/models
+# /*/models
+# /models
